@@ -1,6 +1,6 @@
 {
   "name": "Forgejo",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "slug": "forgejo",
   "description": "Self-hosted lightweight software forge",
   "url": "https://github.com/superJK92iscool/hassio-addons-forgejo-update/tree/master/forgejo/",
