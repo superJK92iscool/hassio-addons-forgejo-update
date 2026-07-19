@@ -5,7 +5,7 @@
   "description": "Self-hosted lightweight software forge",
   "url": "https://github.com/superJK92iscool/hassio-addons-forgejo-update/tree/master/forgejo/",
   "arch": ["aarch64", "amd64"],
-  "image": "ghcr.io/simon-adriaanse/forgejo-{arch}",
+  "image": "https://github.com/superJK92iscool/hassio-addons-forgejo-update/blob/master/forgejo/icon.png",
   "map": ["share:rw", "ssl:ro"],
   "ingress": true,
   "ingress_port": 3000,
